@@ -1,0 +1,48 @@
+/* EditEmployee.css */
+.edit-employee-container {
+    padding: 20px; /* Padding for the container */
+    background-color: #f0f4f8; /* Light background color */
+    text-align: center; /* Center the content */
+  }
+  
+  .edit-employee-form {
+    display: inline-block; /* Inline-block to center the form */
+    text-align: left; /* Left-align text within the form */
+    padding: 20px; /* Padding inside the form */
+    background-color: #fff; /* White background for the form */
+    border: 1px solid #ddd; /* Light border around the form */
+    border-radius: 10px; /* Rounded corners */
+  }
+  
+  .form-group {
+    margin-bottom: 15px; /* Spacing between form fields */
+  }
+  
+  .form-group label {
+    display: inline-block;
+    width: 100px; /* Fixed label width for consistent alignment */
+    text-align: right; /* Right-align labels */
+  }
+  
+  .form-group input,
+  .form-group select {
+    padding: 8px; /* Padding for input fields */
+    border: 1px solid #ccc; /* Border around input fields */
+    border-radius: 5px; /* Rounded corners */
+    width: 200px; /* Fixed width for input fields */
+  }
+  
+  .submit-button {
+    padding: 10px 20px; /* Padding for the submit button */
+    background-color: #2196F3; /* Blue background */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor */
+    text-align: center; /* Center the text */
+  }
+  
+  .submit-button:hover {
+    background-color: #1976D2; /* Darker blue on hover */
+  }
+  

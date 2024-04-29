@@ -1,0 +1,25 @@
+/* EmployeeDetails.css */
+.employee-details-container {
+    padding: 20px; /* Padding around the container */
+    background-color: #e0f7fa; /* Light blue background for the container */
+    text-align: left; /* Left-align content for readability */
+  }
+  
+  .employee-details-title {
+    color: #00796b; /* Teal color for the title */
+    font-size: 1.5em; /* Slightly larger font size for the title */
+    margin-bottom: 20px; /* Spacing below the title */
+  }
+  
+  .employee-detail {
+    color: #004d40; /* Darker teal for text */
+    font-size: 1em; /* Default font size */
+    padding: 10px 0; /* Padding above and below each detail */
+  }
+  
+  .employee-not-found {
+    color: red; /* Red color for the "Employee not found" message */
+    text-align: center; /* Center the message */
+    font-size: 1.5em; /* Larger font size for emphasis */
+  }
+  

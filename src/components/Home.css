@@ -1,0 +1,27 @@
+/* Home.css */
+.home-container {
+    padding: 20px; /* Padding for the container */
+    background-color: #e0f7fa; /* Light blue background */
+    text-align: center; /* Center text content */
+  }
+  
+  .home-title {
+    color: #00796b; /* Teal color for the title */
+    font-size: 2em; /* Larger font size for the title */
+  }
+  
+  .home-image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  }
+  
+  .home-description {
+    color: #004d40; /* Darker teal for the description */
+    font-size: 1.2em; /* Slightly larger font size */
+    max-width: 600px; /* Limit the width for readability */
+    margin: 0 auto; /* Center the description horizontally */
+  }
+  

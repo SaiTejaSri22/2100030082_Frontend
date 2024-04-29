@@ -1,0 +1,71 @@
+.employee-list-container {
+  padding: 20px;
+  background-color: #f0f4f8; /* Light background */
+}
+
+.employee-list-actions {
+  text-align: right;
+  margin-bottom: 10px; /* Spacing below the "Add Employee" button */
+}
+
+.employee-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background-color: #fff; /* White background for the table */
+}
+
+.employee-table th,
+.employee-table td {
+  padding: 12px; /* Padding for table cells */
+  text-align: left; /* Left-align text */
+}
+
+.employee-table th {
+  background-color: #5e65b5; /* Green background for table headers */
+  color: white; /* White text for contrast */
+}
+
+.employee-row.even {
+  background-color: #f9f9f9; /* Light gray for even rows */
+}
+
+.employee-row.odd {
+  background-color: #e9e9e9; /* Slightly darker gray for odd rows */
+}
+
+.employee-row:hover {
+  background-color: #cfe0e8; /* Hover effect */
+}
+
+.employee-table button {
+  padding: 6px 12px; /* Padding for buttons */
+  border-radius: 5px; /* Rounded corners */
+  border: none; /* No border */
+  cursor: pointer; /* Pointer cursor */
+}
+
+.add-button {
+  background-color: #423baa; /* Green for "Add Employee" button */
+  color: white; /* White text */
+}
+
+.add-button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+.employee-table button:first-of-type {
+  background-color: #2196F3; /* Blue for "Edit" button */
+}
+
+.employee-table button:first-of-type:hover {
+  background-color: #1976D2; /* Darker blue on hover */
+}
+
+.employee-table button:last-of-type {
+  background-color: #f44336; /* Red for "Delete" button */
+}
+
+.employee-table button:last-of-type:hover {
+  background-color: #e53935; /* Darker red on hover */
+}

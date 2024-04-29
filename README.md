@@ -1,10 +1,12 @@
-![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/868db1c8-e7ad-4fc9-8aee-8725146aaeed)
+**OUTPUT**
 
-![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/9c8c9f54-72d6-42d5-a4fd-ebe159d5730f)
+![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/f8ff3308-9877-4def-9f77-52496bb87e50)
 
-![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/04728723-d93b-40bb-9416-502b34da97cf)
+![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/dcd6dbc9-36f3-4e94-b188-19c8a52e7bad)
 
-![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/aee41b37-77d4-45e2-9ef0-688c60f06ccf)
+![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/34dcf747-e17e-4ce2-86be-64bdda650a3a)
+
+![image](https://github.com/SaiTejaSri22/2100030082_Frontend/assets/144007194/5fdfc2e2-8212-4906-81e4-e6993ef2751a)
 
 
 
